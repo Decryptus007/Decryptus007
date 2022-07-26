@@ -1,5 +1,5 @@
 ## About Me
-- ✍🏽 I am a front end developer who loves building web application using `JavaScript` and `ReactJs`. 
+- ✍🏽 I am a Front-End Web developer who loves building web application using `JavaScript` and `ReactJs`. 
      I’m well-versed in planning and development, improvising, relationship management, operations, and logistics coordination and scheduling.
      I am keen to gain more experience in my web development career.
 

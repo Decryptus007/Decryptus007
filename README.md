@@ -3,7 +3,7 @@
      I’m well-versed in planning and development, improvising, relationship management, operations, and logistics coordination and scheduling.
      I am keen to gain more experience in my web development career.
 
-- 👨🏽‍🎓 I graduated in 2022 from Kwara State Polytechnic, Ilorin, Kwara State (National Diploma).
+- 👨🏽‍🎓 In 2022, I graduated with Upper Credit from Kwara State Polytechnic, Ilorin, Kwara State (National Diploma).
 
 - 🤓 **Interest in** Coding, Watching Anime, Listening to songs, Gaming.
 

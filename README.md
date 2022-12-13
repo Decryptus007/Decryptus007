@@ -1,6 +1,6 @@
 ## About Me
 - ✍🏽 I am a Front-End Web developer who loves building web application using `JavaScript` and `ReactJs`. 
-     I’m well-versed in planning and development, improvising, relationship management, operations, and logistics coordination and scheduling.
+     I’m well-versed in planning, development, improvising, relationship management, operations, logistics coordination and scheduling.
      I am keen to gain more experience in my web development career.
 
 - 👨🏽‍🎓 In 2022, I graduated with Upper Credit from Kwara State Polytechnic, Ilorin, Kwara State (National Diploma).

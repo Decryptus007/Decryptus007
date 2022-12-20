@@ -34,3 +34,11 @@
 
 ## My Stats on Github
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=decryptus007&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=decryptus007&theme=dark)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=decryptus007&langs_count=5&theme=tokyonight)]()
+
+![](https://komarev.com/ghpvc/?username=decryptus007&color=blue)

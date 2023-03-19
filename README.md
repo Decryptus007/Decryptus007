@@ -5,7 +5,7 @@
 
 - 👨🏽‍🎓 In 2022, I graduated with Upper Credit from Kwara State Polytechnic, Ilorin, Kwara State (National Diploma).
 
-- 🤓 **Interest in** Coding, Watching Anime, Listening to songs, Gaming.
+- 🤓 **Interest in** Coding, Watching Anime, Listening to songs and Gaming.
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

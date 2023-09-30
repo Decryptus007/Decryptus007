@@ -1,5 +1,5 @@
 ## About Me
-- ✍🏽 I am a Front-End Web developer who loves building user friendly web applications.
+- ✍🏽 I am a Software developer who loves building user friendly web applications.
 
 - 🤓 **Interest in** Coding, Watching Anime, Listening to songs and Gaming.
 

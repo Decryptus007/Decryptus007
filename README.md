@@ -35,7 +35,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dominic080)
 
 ## My Stats on Github
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=decryptus007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=decryptus007&count_private=true&theme=tokyonight&showicons=true)]()
 
